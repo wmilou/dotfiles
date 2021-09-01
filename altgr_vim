@@ -1,3 +1,11 @@
+# Add this file on path /usr/share/X11/xkb/symbols/
+# and call this on your layout keyboard
+# example /usr/share/X11/xkb/symbols/br
+# on abnt2 add this line 
+# "include("altgr_vim")"
+# on include parameter, use this file name
+
+
 partial keypad_keys                 
 xkb_symbols "altgr-vim" {
   # replace Caps with AltGr
