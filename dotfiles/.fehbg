@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-scale '/home/wedsley/.config/bspwm/wallpapers/groot.jpg' 

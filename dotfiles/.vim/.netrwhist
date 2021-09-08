@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/wedsley/Documents/Trabalho/VSI_CORE/VSI-Omni-Core/docker/mariadb'
+let g:netrw_dirhist_2='/home/wedsley/Documents/Trabalho/VSI_CORE/VSI-Omni-Core/vsi-omni-core'
+let g:netrw_dirhist_1='/home/wedsley/Documents/Trabalho/VSI_CORE/VSI-Omni-Core'

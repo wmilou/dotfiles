@@ -1,0 +1,111 @@
+1631109780337	FirefoxAccounts	DEBUG	FxAccountsWebChannel registered: account_updates with origin https://accounts.firefox.com
+1631109780406	FirefoxAccounts	TRACE	initializing new storage manager
+1631109780406	FirefoxAccounts	TRACE	starting fetch of json user data
+1631109780407	FirefoxAccounts	TRACE	initializing of new storage manager done
+1631111011488	Sync.Status	INFO	Resetting Status.
+1631111011488	Sync.Status	DEBUG	Status.service: undefined => success.status_ok
+1631111011489	Sync.SyncScheduler	TRACE	Setting SyncScheduler policy values to defaults.
+1631111011490	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1631111011490	Sync.Status	DEBUG	Status.login: success.login => error.login.reason.no_username
+1631111011490	Sync.Status	DEBUG	Status.service: success.status_ok => service.client_not_configured
+1631111011490	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1631111011490	Sync.Service	INFO	Loading Weave 1.94.0
+1631111011490	Sync.Engine.Clients	DEBUG	Engine constructed
+1631111011491	Sync.Engine.Clients	DEBUG	Resetting clients last sync time
+1631111011493	Sync.Engine.Addons	DEBUG	Engine constructed
+1631111011498	Sync.Engine.Addons	DEBUG	SyncEngine initialized: addons
+1631111011501	Sync.AddonsReconciler	DEBUG	No data seen in loaded file: addonsreconciler
+1631111011503	Sync.Engine.Bookmarks	DEBUG	Engine constructed
+1631111011503	Sync.Engine.Bookmarks	DEBUG	SyncEngine initialized: bookmarks
+1631111011504	Sync.Engine.Forms	DEBUG	Engine constructed
+1631111011505	Sync.Engine.Forms	DEBUG	SyncEngine initialized: forms
+1631111011505	Sync.Engine.History	DEBUG	Engine constructed
+1631111011507	Sync.Engine.History	DEBUG	SyncEngine initialized: history
+1631111011508	Sync.Engine.Passwords	DEBUG	Engine constructed
+1631111011508	Sync.Engine.Passwords	DEBUG	SyncEngine initialized: passwords
+1631111011509	Sync.Engine.Prefs	DEBUG	Engine constructed
+1631111011510	Sync.Engine.Prefs	DEBUG	SyncEngine initialized: prefs
+1631111011510	Sync.Engine.Tabs	DEBUG	Engine constructed
+1631111011511	Sync.Engine.Tabs	DEBUG	SyncEngine initialized: tabs
+1631111011511	Sync.Engine.Tabs	DEBUG	Resetting tabs last sync time
+1631111011512	Sync.Engine.CreditCards	DEBUG	Engine constructed
+1631111011514	Sync.Engine.CreditCards	DEBUG	SyncEngine initialized: creditcards
+1631111011515	Sync.Engine.Extension-Storage	DEBUG	Engine constructed
+1631111011515	Sync.Engine.Extension-Storage	DEBUG	SyncEngine initialized: extension-storage
+1631111011516	Sync.Service	INFO	Mozilla/5.0 (X11; Linux x86_64; rv:92.0) Gecko/20100101 Firefox/92.0
+1631111011516	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1631111011516	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1631111011516	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1631111011518	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1631111011518	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1631111011518	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1631113903635	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631117181074	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631117195843	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631117197819	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631117488557	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631117495530	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631118910531	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631118958860	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631118961686	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631119102699	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631126911432	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631129438049	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631129449724	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631129451444	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631129516013	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631129584378	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631129747003	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631129772015	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631129773661	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631129774830	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631129983630	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631130011631	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631130085541	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631130525097	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631130585676	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631130604804	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631130649435	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631130966831	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631131023148	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631131112191	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631131321901	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631131433018	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631131436629	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631131470765	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631131486777	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631131536482	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631131604430	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631131648980	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631131678354	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631131773796	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631131803500	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631131838889	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631132168083	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631132169848	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631132269562	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631132290377	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631132463772	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631132493044	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631132549315	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631134813080	Sync.SyncScheduler	DEBUG	Network link status changed to "down". Offline?: false
+1631134813080	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1631134813083	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1631134813087	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631134826598	Sync.SyncScheduler	DEBUG	Network link status changed to "up". Offline?: false
+1631134826599	Sync.SyncScheduler	DEBUG	Network link looks up. Syncing.
+1631134826601	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1631134826603	Sync.SyncScheduler	DEBUG	Network link status changed to "changed". Offline?: false
+1631134826605	Sync.Service	DEBUG	User-Agent: Firefox/92.0 (Linux x86_64) FxSync/1.94.0.20210908033235.desktop
+1631134826606	Sync.Service	INFO	Starting sync at 2021-09-08 18:00:26 in browser session dKLMfIkLHaiJ
+1631134826606	Sync.Service	DEBUG	In sync: should login.
+1631134826606	Sync.Service	INFO	User logged in successfully - verifying login.
+1631134826607	Sync.SyncAuthManager	DEBUG	unlockAndVerifyAuthState has no FxA user
+1631134826607	Sync.Status	DEBUG	Status.login: error.login.reason.no_username => error.login.reason.no_username
+1631134826607	Sync.Status	DEBUG	Status.service: service.client_not_configured => service.client_not_configured
+1631134826607	Sync.Service	DEBUG	Fetching unlocked auth state returned error.login.reason.no_username
+1631134826607	Sync.ErrorHandler	ERROR	Sync encountered a login error
+1631134826607	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1631134826607	Sync.SyncScheduler	DEBUG	Clearing sync triggers and the global score.
+1631134826608	Sync.Service	DEBUG	Exception calling WrappedLock: Error: Login failed: error.login.reason.no_username(resource://services-sync/service.js:1038:15) JS Stack trace: onNotify@service.js:1038:15
+1631134826609	Sync.Service	DEBUG	Not syncing: login returned false.
