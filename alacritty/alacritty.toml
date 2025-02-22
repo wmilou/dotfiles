@@ -1,0 +1,32 @@
+import = ["/home/doctor/.config/alacritty/colors.toml", "/home/doctor/.config/alacritty/fonts.toml"]
+live_config_reload = true
+
+[cursor]
+unfocused_hollow = false
+
+[cursor.style]
+blinking = "On"
+shape = "Beam"
+
+[env]
+LANG = "en_US.UTF-8"
+LC_ALL = "en_US.UTF-8"
+
+[shell]
+args = ["-l", "-c", "~/.tmux/start_tmux.sh || tmux"]
+program = "/bin/bash"
+
+[window]
+decorations = "None" 
+dynamic_title = true
+#history = 10000
+#multiplier = 3
+startup_mode = "Windowed"
+
+[window.dimensions]
+columns = 82
+lines = 25
+
+[window.padding]
+x = 8
+y = 0
