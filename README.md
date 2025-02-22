@@ -1,4 +1,4 @@
-# 📌 Managing Dotfiles with GNU Stow
+# 📌 Dotfiles by Wedsley – Stow-Powered Configs 
 
 ## 🚀 Introduction
 GNU Stow is a powerful symlink manager that simplifies the management of dotfiles across multiple environments. By leveraging Stow, you can keep your dotfiles organized in a Git repository and easily deploy them on any system with minimal effort.
